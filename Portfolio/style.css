@@ -336,7 +336,7 @@ section .title::after {
   height: 110%;
 }
 .skills .title::after {
-  content: "My Skills";
+  content: "Things I Know";
 }
 
 /* skills right column */
